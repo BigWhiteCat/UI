@@ -108,6 +108,10 @@ article h1{
     font-size: 18px;
 }
 
+article p{
+    text-align: center;
+}
+
 aside{
     display: block;
     width: 25%;
